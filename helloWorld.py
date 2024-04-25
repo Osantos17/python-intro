@@ -1,7 +1,7 @@
-greeting  = 'Hello'
-name = 'Mike'
+greeting  = 'Hello World'
 
-message = f'{greeting.lower()}, {name.upper()}!'
+
+message = f'{greeting}!'
 
 
 print(message)
